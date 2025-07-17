@@ -46,12 +46,3 @@ Screenshots
 ##### **FastCash**:
 ![image](https://github.com/user-attachments/assets/2a8dd60d-27f2-46c2-a75f-5f1d4ab4ce49)
     
-Contact
-----------
-
-For any queries or suggestions, feel free to reach out:
-
-*   👤 **Name:** Devangi Inani
-*   📧 **Email:** devangiinani@gmail.com
-*   💻 **GitHub:** [Devangi Inani](https://github.com/devangi2004)
-*   🔗 **LinkedIn:** [Devangi Inani](https://www.linkedin.com/in/devangi-inani-8b92b9282/)
